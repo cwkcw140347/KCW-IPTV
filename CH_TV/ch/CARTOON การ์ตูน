@@ -1,0 +1,120 @@
+{
+    "name":"CARTOON การ์ตูน",
+    "image":"https://th.bing.com/th/id/R.c2d632623cbcbc9ffcb910839d00aa5a?rik=XXqdX1AxAVKvTA&pid=ImgRaw&r=0",
+    "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_TV/ch/CARTOON%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99",
+    "stations":
+    [
+        {
+            "name": "Cartoon Club HD",
+            "image": "https://dookeela.live/uploads/1705504043.png",
+            "url": "https://dookeela.live/live-tv/cartoonclub",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "Boomerang",
+            "image": "https://dookeela.live/uploads/1705504202.png",
+            "url": "https://dookeela.live/live-tv/boomerang",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "True Spark Play",
+            "image": "https://dookeela.live/uploads/1720723541.png",
+            "url": "https://dookeela.live/live-tv/truesparkplay",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "Cartoon Network",
+            "image": "https://dookeela.live/uploads/1708344243.png",
+            "url": "https://dookeela.live/live-tv/cartoon-network",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "Animax | Singapore",
+            "image": "https://dookeela.live/uploads/1704038567.png",
+            "url": "https://dookeela.live/live-tv/animax",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "Astro Ceria",
+            "image": "https://dookeela.live/uploads/1721687988.png",
+            "url": "https://dookeela.live/live-tv/astroceria",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "CBeebies",
+            "image": "https://dookeela.live/uploads/1709573298.png",
+            "url": "https://dookeela.live/live-tv/cbeebies",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "Disney Channel",
+            "image": "https://dookeela.live/uploads/1716361978.png",
+            "url": "https://dookeela.live/live-tv/disney-channel",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "Disney Junior",
+            "image": "https://dookeela.live/uploads/1716362497.png",
+            "url": "https://dookeela.live/live-tv/disney-junior",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "Disney XD",
+            "image": "https://dookeela.live/uploads/1716362753.png",
+            "url": "https://dookeela.live/live-tv/disneyxd",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "DreamWorks",
+            "image": "https://dookeela.live/uploads/1723200736.png",
+            "url": "https://dookeela.live/live-tv/dreamworks",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "Moonbug",
+            "image": "https://dookeela.live/uploads/1721687729.png",
+            "url": "https://dookeela.live/live-tv/moonbug",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "Nick Jr.",
+            "image": "https://dookeela.live/uploads/1708344362.png",
+            "url": "https://dookeela.live/live-tv/nickjr",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "Nickelodeon",
+            "image": "https://dookeela.live/uploads/1708344306.png",
+            "url": "https://dookeela.live/live-tv/nickelodeon",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "cartoonito",
+            "image": "https://dookeela.live/uploads/1704039063.png",
+            "url": "https://dookeela.live/live-tv/cartoonito",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "nicktoons | Germany",
+            "image": "https://dookeela.live/uploads/1713282303.png",
+            "url": "https://dookeela.live/live-tv/nicktoons",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        }
+    ]
+}

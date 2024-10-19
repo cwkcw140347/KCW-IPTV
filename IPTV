@@ -1,0 +1,46 @@
+{
+    "name":"Entertainment",
+    "author":"KCW",
+    "info":"KCW-IPTV1.0",
+    "image":"https://i.ibb.co/tcZ85ww/icon8-info.gif",
+    "url":"",
+    "groups":
+    [
+        {
+            "name":"📺:[TV]",
+            "image":"https://i.postimg.cc/3R0vVstr/tv.png",
+            "url":"",
+            "import":"false"
+        },
+        {
+            "name": "🎞️:[MOVIE]",
+            "image": "https://i.postimg.cc/W3yLnxdb/movie.png",
+            "url": "",
+            "import": "false"
+        },
+        {
+            "name": "🎬:[SERIES]",
+            "image": "https://i.postimg.cc/W3yLnxdb/movie.png",
+            "url": "",
+            "import": "false"
+        },
+        {
+            "name": "🤡:[CARTOON]",
+            "image": "https://i.postimg.cc/KvS7TDNk/Cartoon.jpg",
+            "url": "",
+            "import": "false"
+        },
+        {
+            "name":"🏆:[SPORT]",
+            "image":"https://i.postimg.cc/Hsmbf3K0/Champion.jpg",
+            "url":"",
+            "import":"false"
+        },
+        {	
+            "name": "Live สวนสัตว์เขาเขียว",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx3f0x185wYib2KbuFpJkBT85hfN2zV0MK1Q&s",
+            "url": "https://drive.google.com/uc?id=10RdkPC2MP0a2oVXsPEOT5oF15Ms5jb3J",
+            "import": "false"
+        }
+    ]
+}

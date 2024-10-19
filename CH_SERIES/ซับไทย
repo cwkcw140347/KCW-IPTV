@@ -1,0 +1,13 @@
+{
+    "name":"ซับไทย",
+    "author":"CH_SERIES",
+    "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_SERIES/%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2",
+    "groups":
+    [
+        {
+            "name":"Sen Çal Kapimi รักอยู่ในอากาศ",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_SERIES/ch1/Sen%20%C3%87al%20Kapimi"
+        }
+    ]
+}

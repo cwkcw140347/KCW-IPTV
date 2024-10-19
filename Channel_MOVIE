@@ -1,0 +1,94 @@
+{
+    "name":"MOVIE",
+    "author":"Category",
+    "image":"https://i.postimg.cc/W3yLnxdb/movie.png",
+    "url":"",
+    "groups":
+    [
+        {
+            "name":"ซับไทย",
+            "image":"",
+            "url":""
+        },
+        {
+            "name":"พากย์ไทย",
+            "image":""
+        },
+        {
+            "name":"Action บู๊",
+            "image":""
+        },
+        {
+            "name":"Adventure ผจญภัย",
+            "image":""
+        },
+        {
+            "name":"Animation การ์ตูน",
+            "image":""
+        },
+        {
+            "name":"Biography ชีวิตจริง",
+            "image":""
+        },
+        {
+            "name":"Comedy ตลก",
+            "image":""
+        },
+        {
+            "name":"Crime อาชญากรรม",
+            "image":""
+        },
+        {
+            "name":"Documentary สารคดี",
+            "image":""
+        },
+        {
+            "name":"Family ครอบครัว",
+            "image":""
+        },
+        {
+            "name":"Fantasy จินตนาการ",
+            "image":""
+        },
+        {
+            "name":"History ประวัติศาสตร์",
+            "image":""
+        },
+        {
+            "name":"Horror สยองขวัญ",
+            "image":""
+        },
+        {
+            "name":"Musical เพลง",
+            "image":""
+        },
+        {
+            "name":"Mystery ลึกลับ",
+            "image":""
+        },
+        {
+            "name":"Romance โรแมนติก",
+            "image":""
+        },
+        {
+            "name":"Sci-Fi วิทยาศาสตร์",
+            "image":""
+        },
+        {
+            "name":"Sport กีฬา",
+            "image":""
+        },
+        {
+            "name":"Thriller ระทึกขวัญ",
+            "image":""
+        },
+        {
+            "name":"War สงคราม",
+            "image":""
+        },
+        {
+            "name":"Western คาวบอยตะวันตก",
+            "image":""
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "name":"TV",
+    "author":"Channel",
+    "image":"https://i.postimg.cc/3R0vVstr/tv.png",
+    "url":"",
+    "groups":
+    [
+        {
+            "name":"MOVIE หนัง",
+            "image":"https://media.giphy.com/media/3o7rc0qU6m5hneMsuc/giphy.gif",
+            "url":""
+        },
+        {
+            "name":"CARTOON การ์ตูน",
+            "image":"https://th.bing.com/th/id/R.c2d632623cbcbc9ffcb910839d00aa5a?rik=XXqdX1AxAVKvTA&pid=ImgRaw&r=0",
+            "url":""
+        },
+        {
+            "name":"DOCUMENTARY สารคดี",
+            "image":"https://www.pixelstalk.net/wp-content/uploads/2016/06/Download-Jungle-Wallpaper-Free.jpg",
+            "url":""
+        },
+        {
+            "name":"SPORT กีฬา",
+            "image":"https://i.pinimg.com/originals/a9/73/c2/a973c299f93c6fbdf6cd3f2c817dacb4.gif",
+            "url":""
+        }
+    ],
+    "stations":
+    [
+        {
+            "name":"NBT2",
+            "image":"https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nbt.webp",
+            "url":"https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"THAI PBS",
+            "image":"https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thaipbs.webp",
+            "url":"https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"ALTV",
+            "image":"https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-altv4.webp",
+            "url":"https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"ททบ.5",
+            "image":"https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tv5hd.webp",
+            "url":"https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w716063276.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"T Sports 7",
+            "image":"https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tsports.webp",
+            "url":"https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/chunklist.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name": "Channel 8",
+            "image": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/8.jpg",
+            "url": "https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w682690403.m3u8"
+        },
+        {
+            "name":"ATTV",
+            "image":"https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_original.png",
+            "url":"http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"TPTV",
+            "image":"https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tptv.webp",
+            "url":"https://edge6a.v2h-cdn.com/tptv/tptv.stream/chunklist.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"NBT 11 Central",
+            "image":"https://i.imgur.com/8hYQIxS.png",
+            "url":"https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"NBT 11 North",
+            "image":"https://imgur.com/XTFVUkP.png",
+            "url":"https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"NBT 11 Northeast",
+            "image":"https://imgur.com/4kwV5Sy.png",
+            "url":"https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"NBT 11 South",
+            "image":"https://imgur.com/4K22fqQ.png",
+            "url":"https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"TNN16",
+            "image":"https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tnn16.webp",
+            "url":"https://tnnthailand-1mertz.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1729203710&x_ark_path_prefix=%2F&x_ark_signature=1GcekTy-OBQ9-Wtpz7gWBg",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"JKN 18",
+            "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/JKN18.png",
+            "url":"https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/chunklist.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"Nation TV",
+            "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0021.png",
+            "url":"https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"Workpoint",
+            "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0015_R.png",
+            "url":"https://global-media.sooplive.com/live/video/workpoint/1920x1080/playlist.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"True 4 U",
+            "image":"https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png",
+            "url":"https://edge6a.v2h-cdn.com/true4u/true4u.stream/chunklist.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"GMM25",
+            "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0019.png",
+            "url":"https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/chunklist.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"CH8",
+            "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0006.png",
+            "url":"https://edge6a.v2h-cdn.com/ch8/ch8.stream/chunklist.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"Mono 29",
+            "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0016.png",
+            "url":"https://edge6a.v2h-cdn.com/mono/mono.stream/chunklist.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name": "MONO29 Plus",
+            "image": "https://dookeela.live/uploads/1703787733.png",
+            "url": "https://streamamg-fa.akamaiz.com/dookeela/mono29plus/chunks.m3u8?nimblesessionid=5854063&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNCA0OjI1OjE2IFBNJmhhc2hfdmFsdWU9WHAzZVl3akVLdHZNMXNJa3BDQTVZdz09JnZhbGlkbWludXRlcz0xJmlkPTcyZjU1YWI4Mzc0ZDJiYzAyZTZmZWQ3NDZjOWUxZWFhJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOQ==",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name":"MCOT HD",
+            "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/MCOT_new.png",
+            "url":"https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/chunklist.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"ONE 31",
+            "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0012.png",
+            "url":"https://bcovlive-a.akamaihd.net/0cd6bc78d30140749a0aad1523804f57/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"Thairath TV",
+            "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0013_R.png",
+            "url":"https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"3 HD",
+            "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/LOGO3HD.PNG",
+            "url":"https://p1.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yOWIwMzcxMTExZDkyNDJhMjM1YgMTk5NjAzZjE5YWY1MWIx",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"AmarinTV",
+            "image":"https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-amarin.webp",
+            "url":"https://p1.cdn.vet/live/ch26/i/ch26i.m3u8?sid=b5yYzU0YWI0YmQzYzQ3MThmZGI1YgN2M0YTFhODMzZjA4MWM0",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name":"7 HD",
+            "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0018.png",
+            "url":"https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8",
+            "playInNatPlayer":"true"
+        },
+        {
+            "name": "PPTV",
+            "image": "https://dookeela.live/uploads/1664499074.png",
+            "url": "https://dookeela.live/live-tv/pptv",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name":"CH37",
+            "image":"http://www.cablechannel37.com/upload/logo_img/logo-650ed98a515a3.png",
+            "url":"http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
+            "playInNatPlayer":"true"
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "name":"Sen Çal Kapimi รักอยู่ในอากาศ",
+    "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+    "url":"",    
+    "stations":
+    [
+        {
+            "name":"SS1 EP1",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://storage4.hello-th.com/videos/video_240803140732_vc01e/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP2",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://storage4.hello-th.com/videos/video_240803140845_v82fa/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP3",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://storage4.hello-th.com/videos/video_240803140814_v59b6/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP4",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://storage5.hello-th.com/videos/video_230503080210_vb67f/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP5",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://storage5.hello-th.com/videos/video_230506080921_v7a79/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP6",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://storage1.hello-th.com/videos/video_230512043155_vd842/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP7",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://storage6.hello-th.com/videos/video_231024051553_vdcd7/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP8",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024052243_vc3e7/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP9",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024052753_ve2a2/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP10",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024053316_v3c88/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP11",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024061208_va9b4/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP12",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024232545_vf89b/res720/index.m3u8"
+        },
+        {
+            "name":"SS1 EP13",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024061737_v10ca/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP14",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024062303_v3492/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP15",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024063005_v1f69/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP16",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024065238_v7277/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP17",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024071901_v41ea/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP18",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024072552_vafc6/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP19",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024072726_v1634/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP20",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024073532_v1f2a/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP21",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024074041_vc02c/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP22",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024074902_v0c2c/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP23",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024075527_v15dc/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP24",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024081634_v74bd/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP25",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231024082724_v8a89/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP26",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025033311_v9488/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP27",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025034439_v2715/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP28",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025130941_v17c1/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP29",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025043605_v3a04/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP30",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://storage3.hello-th.com/videos/video_220326061017_ve23d/hd/index.m3u8"
+        },
+        {
+            "name":"SS1 EP31",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025044139_v5d98/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP32",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025044636_v53b8/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP33",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025045629_v6635/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP34",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025050009_v4c6c/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP35",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025115718_v1fb8/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP36",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025120014_v38ca/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP37",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025051755_vcee8/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP38",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025050854_v7842/res1080/index.m3u8"
+        },
+        {
+            "name":"SS1 EP39",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://storage3.hello-th.com/videos/video_220326100602_vbc9a/hd/index.m3u8"
+        },
+        {
+            "name":"SS2 EP40",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025193935_v2577/res1080/index.m3u8"
+        },
+        {
+            "name":"SS2 EP41",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231026095814_ve80e/res1080/index.m3u8"
+        },
+        {
+            "name":"SS2 EP42",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025183541_v2bbd/res1080/index.m3u8"
+        },
+        {
+            "name":"SS2 EP43",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025185004_v714b/res1080/index.m3u8"
+        },
+        {
+            "name":"SS2 EP44",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025191823_v85b7/res1080/index.m3u8"
+        },
+        {
+            "name":"SS2 EP45",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025193235_v9da8/res1080/index.m3u8"
+        },
+        {
+            "name":"SS2 EP46",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025193622_v37ce/res1080/index.m3u8"
+        },
+        {
+            "name":"SS2 EP47",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://ssd4.hello-th.com/videos/video_231025211409_v23e0/res1080/index.m3u8"
+        },
+        {
+            "name":"SS2 EP48",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://storage3.hello-th.com/videos/video_220306052316_vaddf/hd/index.m3u8"
+        },
+        {
+            "name":"SS2 EP49",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://storage3.hello-th.com/videos/video_220306052802_vd779/hd/index.m3u8"
+        },
+        {
+            "name":"SS2 EP50",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://storage3.hello-th.com/videos/video_220306053704_v8ff8/hd/index.m3u8"
+        },
+        {
+            "name":"SS2 EP51",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://storage3.hello-th.com/videos/video_220306054125_v255f/hd/index.m3u8"
+        },
+        {
+            "name":"SS2 EP52",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg/220px-Sen_%C3%87al_Kap%C4%B1m%C4%B1_poster.jpg",
+            "url":"https://storage3.hello-th.com/videos/video_220306054652_v55ef/hd/index.m3u8"
+        }
+    ]
+}
