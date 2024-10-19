@@ -8,22 +8,22 @@
         {
             "name":"MOVIE หนัง",
             "image":"https://media.giphy.com/media/3o7rc0qU6m5hneMsuc/giphy.gif",
-            "url":""
+            "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_TV/ch/MOVIE%20%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87"
         },
         {
             "name":"CARTOON การ์ตูน",
             "image":"https://th.bing.com/th/id/R.c2d632623cbcbc9ffcb910839d00aa5a?rik=XXqdX1AxAVKvTA&pid=ImgRaw&r=0",
-            "url":""
+            "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_TV/ch/CARTOON%20%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99"
         },
         {
             "name":"DOCUMENTARY สารคดี",
             "image":"https://www.pixelstalk.net/wp-content/uploads/2016/06/Download-Jungle-Wallpaper-Free.jpg",
-            "url":""
+            "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_TV/ch/DOCUMENTARY%20%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5"
         },
         {
             "name":"SPORT กีฬา",
             "image":"https://i.pinimg.com/originals/a9/73/c2/a973c299f93c6fbdf6cd3f2c817dacb4.gif",
-            "url":""
+            "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_TV/ch/SPORT%20%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2"
         }
     ],
     "stations":
@@ -150,7 +150,7 @@
         {
             "name": "MONO29 Plus",
             "image": "https://dookeela.live/uploads/1703787733.png",
-            "url": "https://streamamg-fa.akamaiz.com/dookeela/mono29plus/chunks.m3u8?nimblesessionid=5854063&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNCA0OjI1OjE2IFBNJmhhc2hfdmFsdWU9WHAzZVl3akVLdHZNMXNJa3BDQTVZdz09JnZhbGlkbWludXRlcz0xJmlkPTcyZjU1YWI4Mzc0ZDJiYzAyZTZmZWQ3NDZjOWUxZWFhJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOQ==",
+            "url": "https://dookeela.live/live-tv/mono29plus",
             "referer": "https://dookeela.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
         },
