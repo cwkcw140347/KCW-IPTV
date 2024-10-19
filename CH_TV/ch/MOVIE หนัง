@@ -10,6 +10,26 @@
             "url": "http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8"
         },
         {
+            "name":"Cool Channel",
+            "image":"https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59-768x512.png",
+            "url":"https://live.cool-channel.com:443/cool/live-720P.m3u8"
+        },
+        {
+            "name":"ลิโด้ Channel",
+            "image":"https://media-mvtv-app.imgix.net/uploads/channel/38_x_AsYJg1i26HkGRt0TjIE4CdhwMq7mconP.jpg",
+            "url":"https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8"
+        },
+        {
+            "name":"สยาม Channel",
+            "image":"https://media-mvtv-app.imgix.net/uploads/channel/37_x_f74aMjmg5Q6TrVRSivyN9A2BoUpx8dcL.jpg",
+            "url":"https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8"
+        },
+        {
+            "name":"สกาล่า Channel",
+            "image":"https://media-mvtv-app.imgix.net/uploads/channel/39_x_B1d8we0g2sxMrXjobnhtZNl9fYKSGOLp.jpg",
+            "url":"https://n-edge-1-th.v2h-cdn.com/scala/scala/playlist.m3u8"
+        },
+        {
             "name": "iQIYI",
             "image": "https://dookeela.live/uploads/1706405008.png",
             "url": "https://dookeela.live/live-tv/iqiyi",
