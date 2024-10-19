@@ -169,19 +169,22 @@
         {
             "name":"Thairath TV",
             "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0013_R.png",
-            "url":"https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8",
+            "url": "https://www.inwiptv.com/player_demo.php?channel=27138",
+            "referer": "https://www.inwiptv.com/",
             "playInNatPlayer":"true"
         },
         {
             "name":"3 HD",
             "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/LOGO3HD.PNG",
-            "url":"https://p1.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yOWIwMzcxMTExZDkyNDJhMjM1YgMTk5NjAzZjE5YWY1MWIx",
+            "url": "https://playlist.xtemus.com/play.php?ch=t256y454t415641586u2y2",
+            "referer": "https://www.inwiptv.com/",
             "playInNatPlayer":"true"
         },
         {
             "name":"AmarinTV",
             "image":"https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-amarin.webp",
-            "url":"https://p1.cdn.vet/live/ch26/i/ch26i.m3u8?sid=b5yYzU0YWI0YmQzYzQ3MThmZGI1YgN2M0YTFhODMzZjA4MWM0",
+            "url": "https://www.inwiptv.com/player_demo.php?channel=27135",
+            "referer": "https://www.inwiptv.com/",
             "playInNatPlayer":"true"
         },
         {
@@ -193,9 +196,9 @@
         {
             "name": "PPTV",
             "image": "https://dookeela.live/uploads/1664499074.png",
-            "url": "https://dookeela.live/live-tv/pptv",
-            "referer": "https://dookeela.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+            "url": "https://www.inwiptv.com/player_demo.php?channel=27129",
+            "referer": "https://www.inwiptv.com/",
+            "playInNatPlayer":"true"
         },
         {
             "name":"CH37",

@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nbt.webp",NBT2
+https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thaipbs.webp",THAI PBS
+https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-altv4.webp",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tv5hd.webp",ททบ.5
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w716063276.m3u8
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tsports.webp",T Sports 7
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/8.jpg",Channel 8
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w682690403.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/02/24/cc08cbe0-764d-11eb-b272-17d04980ce1e_original.png",ATTV
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tptv.webp",TPTV
+https://edge6a.v2h-cdn.com/tptv/tptv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8hYQIxS.png",NBT 11 Central
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://imgur.com/XTFVUkP.png",NBT 11 North
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4kwV5Sy.png",NBT 11 Northeast
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4K22fqQ.png",NBT 11 South
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tnn16.webp",TNN16
+https://tnnthailand-1mertz.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1729203710&x_ark_path_prefix=%2F&x_ark_signature=1GcekTy-OBQ9-Wtpz7gWBg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/JKN18.png",JKN 18
+https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0021.png",Nation TV
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0015_R.png",Workpoint
+https://global-media.sooplive.com/live/video/workpoint/1920x1080/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png",True 4 U
+https://edge6a.v2h-cdn.com/true4u/true4u.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0019.png",GMM25
+https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0006.png",CH8
+https://edge6a.v2h-cdn.com/ch8/ch8.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0016.png",Mono 29
+https://edge6a.v2h-cdn.com/mono/mono.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703787733.png",MONO29 Plus
+https://streamamg-fa.akamaiz.com/dookeela/mono29plus/chunks.m3u8?nimblesessionid=5854063&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNCA0OjI1OjE2IFBNJmhhc2hfdmFsdWU9WHAzZVl3akVLdHZNMXNJa3BDQTVZdz09JnZhbGlkbWludXRlcz0xJmlkPTcyZjU1YWI4Mzc0ZDJiYzAyZTZmZWQ3NDZjOWUxZWFhJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOQ==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/MCOT_new.png",MCOT HD
+https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0012.png",ONE 31
+https://bcovlive-a.akamaihd.net/0cd6bc78d30140749a0aad1523804f57/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0013_R.png",Thairath TV
+https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/LOGO3HD.PNG",3 HD
+https://p1.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yOWIwMzcxMTExZDkyNDJhMjM1YgMTk5NjAzZjE5YWY1MWIx
+#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-amarin.webp",AmarinTV
+https://p1.cdn.vet/live/ch26/i/ch26i.m3u8?sid=b5yYzU0YWI0YmQzYzQ3MThmZGI1YgN2M0YTFhODMzZjA4MWM0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0018.png",7 HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499074.png",PPTV
+https://dookeela.live/live-tv/pptv
+#EXTINF:-1 tvg-logo="http://www.cablechannel37.com/upload/logo_img/logo-650ed98a515a3.png",CH37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
