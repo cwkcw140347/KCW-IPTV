@@ -1,13 +1,13 @@
 {
     "name":"พากย์ไทย",
     "author":"CH_MOVIE",
-    "url":"",
+    "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_MOVIE/%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2",
     "groups":
     [
         {
             "name":"The Maze Runner",
             "image":"https://cdnb.artstation.com/p/assets/covers/images/049/758/593/large/ken-barthelmey-ken-barthelmey-artstationthumbnail2.jpg?1653265699",
-            "url":""
+            "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_MOVIE/ch2/The%20Maze%20Runner"
         }
     ]
 }
