@@ -5,6 +5,11 @@
     "groups":
     [
         {
+            "name":"Death Race ซิ่ง สั่ง ตาย",
+            "image":"https://upload.wikimedia.org/wikipedia/th/thumb/4/47/Death_Race_%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2.jpg/220px-Death_Race_%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2.jpg",
+            "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_MOVIE/ch2/Death%20Race%20%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%20%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%20%E0%B8%95%E0%B8%B2%E0%B8%A2"
+        },
+        {
             "name":"The Maze Runner",
             "image":"https://cdnb.artstation.com/p/assets/covers/images/049/758/593/large/ken-barthelmey-ken-barthelmey-artstationthumbnail2.jpg?1653265699",
             "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_MOVIE/ch2/The%20Maze%20Runner"
