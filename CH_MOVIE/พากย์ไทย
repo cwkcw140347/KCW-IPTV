@@ -8,6 +8,11 @@
             "name":"The Maze Runner",
             "image":"https://cdnb.artstation.com/p/assets/covers/images/049/758/593/large/ken-barthelmey-ken-barthelmey-artstationthumbnail2.jpg?1653265699",
             "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_MOVIE/ch2/The%20Maze%20Runner"
+        },
+        {
+            "name":"The Sorcerer’s Apprentice ศึกอภินิหารพ่อมดถล่มโลก",
+            "image":"https://www.24-hd.com/wp-content/uploads/2022/12/The-Sorcerers-Apprentice-2010-187x269.png",
+            "url":"https://main.24playerhd.com/m3u8/eed90dfbbcb70173769dcd88/eed90dfbbcb70173769dcd88438.m3u8"
         }
     ]
 }
