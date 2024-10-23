@@ -1,8 +1,13 @@
 {
     "name":"ซับไทย",
     "author":"CH_MOVIE",
+    "url":"",
     "groups":
     [
-
+        {
+            "name":"Dead Snow กัดกระชากโหด 2",
+            "image":"https://themomentum.co/wp-content/uploads/2018/02/TheMO-5zombiemovies_content01.png",
+            "url":""
+        }
     ]
 }
