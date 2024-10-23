@@ -1,0 +1,23 @@
+{
+    "name":"The Maze Runner",
+    "image":"https://cdnb.artstation.com/p/assets/covers/images/049/758/593/large/ken-barthelmey-ken-barthelmey-artstationthumbnail2.jpg?1653265699",
+    "url":"",
+    "stations":
+    [
+        {
+            "name":"The Maze Runner วงกตมฤตยู",
+            "image":"https://www.24-hd.com/wp-content/uploads/2022/11/The-Maze-Runner-2014-%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%95%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9-187x269.jpg",
+            "url":"https://main.24playerhd.com/m3u8/a762a6c9feedf1b082dd6c05/a762a6c9feedf1b082dd6c05438.m3u8"
+        },
+        {
+            "name":"Maze Runner 2 The Scorch Trials สมรภูมิมอดไหม้",
+            "image":"https://www.24-hd.com/wp-content/uploads/2022/11/Maze-Runner-2-The-Scorch-Trials-2015-%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A1%E0%B8%AD%E0%B8%94%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B9%89-187x269.jpg",
+            "url":"https://main.24playerhd.com/m3u8/d980d46971ab075230e837ab/d980d46971ab075230e837ab438.m3u8"
+        },
+        {
+            "name":"Maze Runner 3 The Death Cure ไข้มรณะ",
+            "image":"https://www.24-hd.com/wp-content/uploads/2022/11/Maze-Runner-3-The-Death-Cure-2018-%E0%B9%84%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0-187x269.jpg",
+            "url":"https://main.24playerhd.com/m3u8/67d06e8decfacd948a018506/67d06e8decfacd948a018506438.m3u8"
+        }
+    ]
+}
