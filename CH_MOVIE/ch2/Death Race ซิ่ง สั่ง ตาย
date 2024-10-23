@@ -1,0 +1,33 @@
+{
+    "name":"Death Race ซิ่ง สั่ง ตาย",
+    "image":"https://upload.wikimedia.org/wikipedia/th/thumb/4/47/Death_Race_%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2.jpg/220px-Death_Race_%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2.jpg",
+    "url":"",
+    "stations":
+    [
+        {
+            "name":"Death Race ซิ่ง สั่ง ตาย 1",
+            "image":"https://www.24-hd.com/wp-content/uploads/2024/01/Death-Race-2008-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-187x269.jpg",
+            "url":"https://main.24playerhd.com/m3u8/5e918fd459d18de63b3c5e38/5e918fd459d18de63b3c5e38438.m3u8"
+        },
+        {
+            "name":"Death Race ซิ่ง สั่ง ตาย 2",
+            "image":"https://www.24-hd.com/wp-content/uploads/2024/01/Death-Race-2-2010-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-2-187x269.jpg",
+            "url":"https://main.24playerhd.com/m3u8/e36e7821e3e9342ad2cbf8ea/e36e7821e3e9342ad2cbf8ea438.m3u8"
+        },
+        {
+            "name":"Death Race ซิ่ง สั่ง ตาย 3",
+            "image":"https://www.24-hd.com/wp-content/uploads/2024/01/Death-Race-3-Inferno-2012-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-3-187x269.jpg",
+            "url":"https://main.24playerhd.com/m3u8/50536a0b57b9637de07c3a93/50536a0b57b9637de07c3a93438.m3u8"
+        },
+        {
+            "name":"Death Race ซิ่ง สั่ง ตาย 4",
+            "image":"https://www.24-hd.com/wp-content/uploads/2024/01/Death-Race-4-Beyond-Anarchy-2018-%E0%B9%80%E0%B8%94%E0%B8%98-%E0%B9%80%E0%B8%A3%E0%B8%8B.%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B8%95%E0%B8%B2%E0%B8%A2-4-187x269.jpg",
+            "url":"https://main.24playerhd.com/m3u8/4e341d3c62e31ad6f8838927/4e341d3c62e31ad6f8838927438.m3u8"
+        },
+        {
+            "name":"Death Race ซิ่ง สั่ง ตาย 2050",
+            "image":"https://www.24-hd.com/wp-content/uploads/2024/01/Death-Race-2050-2017-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-2050-187x269.jpg",
+            "url":"https://main.24playerhd.com/m3u8/669f141712f39a13ef23f1e8/669f141712f39a13ef23f1e8438.m3u8"
+        }
+    ]
+}
