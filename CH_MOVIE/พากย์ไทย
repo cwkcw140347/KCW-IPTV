@@ -5,6 +5,11 @@
     "groups":
     [
         {
+            "name":"Bad Neighbours เพื่อนบ้านมหา(บรร)ลัย",
+            "image":"https://s3.amazonaws.com/files.thegamecrafter.com/00a1f8d835cc2e550704ce42e71662ca1bed0976",
+            "url":""
+        },
+        {
             "name":"Dead Snow กัดกระชากโหด",
             "image":"https://themomentum.co/wp-content/uploads/2018/02/TheMO-5zombiemovies_content01.png",
             "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_MOVIE/ch2/Dead%20Snow%20%E0%B8%81%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B9%82%E0%B8%AB%E0%B8%94"
