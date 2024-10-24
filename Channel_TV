@@ -24,6 +24,11 @@
             "name":"SPORT กีฬา",
             "image":"https://i.pinimg.com/originals/a9/73/c2/a973c299f93c6fbdf6cd3f2c817dacb4.gif",
             "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_TV/ch/SPORT%20%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2"
+        },
+        {
+            "name":"DLTV",
+            "image":"",
+            "url":""
         }
     ],
     "stations":

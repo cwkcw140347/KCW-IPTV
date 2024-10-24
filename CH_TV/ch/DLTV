@@ -1,0 +1,88 @@
+{
+    "name":"DLTV",
+    "image":"",
+    "url":"",
+    "stations":
+    [
+        {
+            "name":"DLTV10 อ.1",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv10.m3u8"
+        },
+        {
+            "name":"DLTV11 อ.2",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv11.m3u8"
+        },
+        {
+            "name":"DLTV12 อ.3",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv12.m3u8"
+        },
+        {
+            "name":"DLTV1 ป.1",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv01.m3u8"
+        },
+        {
+            "name":"DLTV2 ป.2",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv02.m3u8"
+        },
+        {
+            "name":"DLTV3 ป.3",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv03.m3u8"
+        },
+        {
+            "name":"DLTV4 ป.4",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv04.m3u8"
+        },
+        {
+            "name":"DLTV5 ป.5",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv05.m3u8"
+        },
+        {
+            "name":"DLTV6 ป.6",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv06.m3u8"
+        },
+        {
+            "name":"DLTV7 ม.1",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv07.m3u8"
+        },
+        {
+            "name":"DLTV8 ม.2",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv08.m3u8"
+        },
+        {
+            "name":"DLTV9 ม.3",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv09.m3u8"
+        },
+        {
+            "name":"DLTV13 อาชีวะ",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv13.m3u8"
+        },
+        {
+            "name":"DLTV14 มสธ.",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv14.m3u8"
+        },
+        {
+            "name":"DLTV15 ครู",
+            "image":"https://dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png",
+            "url":"https://cdn-live.dltv.ac.th/dltv15.m3u8"
+        },
+        {
+            "name":"ETV",
+            "image":"http://www.etvthai.tv/images_new/logo.png",
+            "url":"http://150.95.66.20:1935/live/livestream/playlist.m3u8"
+        }
+    ]
+}
