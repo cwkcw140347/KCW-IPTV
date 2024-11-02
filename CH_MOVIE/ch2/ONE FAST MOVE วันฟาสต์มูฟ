@@ -1,0 +1,13 @@
+{
+    "name":"ONE FAST MOVE วันฟาสต์มูฟ",
+    "image":"https://www.fwiptv.tv/images/movie/One_Fast_Move_(2024)_%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9F%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B9%E0%B8%9F.webp",
+    "url":"",
+    "stations":
+    [
+        {  
+            "name":"ONE FAST MOVE วันฟาสต์มูฟ",
+            "image":"https://www.fwiptv.tv/images/movie/One_Fast_Move_(2024)_%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9F%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B9%E0%B8%9F.webp",
+            "url":"https://live.lnwplayer.com/hls/3600817f-41de-4c28-b745-c8a89de96273/index.m3u8"
+        }
+    ]
+}
