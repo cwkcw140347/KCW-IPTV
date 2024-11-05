@@ -215,19 +215,22 @@
             "name":"FW MOV",
             "image":"https://www.i-pic.info/i/Ecy3654246.png",
             "referer":"https://www.inwiptv.com/",
-            "url":"https://www.inwiptv.com/player_demo.php?channel=95262"
+            "url":"https://www.inwiptv.com/player_demo.php?channel=95262",
+            "playInNatPlayer":"true"
         },
         {
             "name":"FW SOV",
             "image":"https://www.i-pic.info/i/soJS654247.png",
             "referer":"https://www.inwiptv.com/",
-            "url":"https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=24142732&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI0IDQ6MDU6MjEgUE0maGFzaF92YWx1ZT1UU3RaSmdYWGpxRTJBRndGUzV4ZVhBPT0mdmFsaWRtaW51dGVzPTI="
+            "url":"https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=24142732&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDI0IDQ6MDU6MjEgUE0maGFzaF92YWx1ZT1UU3RaSmdYWGpxRTJBRndGUzV4ZVhBPT0mdmFsaWRtaW51dGVzPTI=",
+            "playInNatPlayer":"true"
         },
         {
             "name":"FW TOON",
             "image":"https://www.i-pic.info/i/OrXo682660.png",
             "referer":"https://www.inwiptv.com/",
-            "url":"https://www.inwiptv.com/player_demo.php?channel=89780"
+            "url":"https://www.inwiptv.com/player_demo.php?channel=89780",
+            "playInNatPlayer":"true"
         }
     ]
 }
