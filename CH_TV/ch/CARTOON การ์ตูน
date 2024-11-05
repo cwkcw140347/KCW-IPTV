@@ -87,6 +87,12 @@
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
         },
         {
+            "name":"FW TOON",
+            "image":"https://www.i-pic.info/i/OrXo682660.png",
+            "referer":"https://www.inwiptv.com/",
+            "url":"https://www.inwiptv.com/player_demo.php?channel=89780"
+        },
+        {
             "name": "Moonbug",
             "image": "https://dookeela.live/uploads/1721687729.png",
             "url": "https://dookeela.live/live-tv/moonbug",

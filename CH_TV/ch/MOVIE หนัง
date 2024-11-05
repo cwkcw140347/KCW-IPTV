@@ -65,6 +65,18 @@
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
         },
         {
+            "name":"FW MOV",
+            "image":"https://www.i-pic.info/i/Ecy3654246.png",
+            "referer":"https://www.inwiptv.com/",
+            "url":"https://www.inwiptv.com/player_demo.php?channel=95262"
+        },
+        {
+            "name":"FW SOV",
+            "image":"https://www.i-pic.info/i/soJS654247.png",
+            "referer":"https://www.inwiptv.com/",
+            "url":"https://www.inwiptv.com/player_demo.php?channel=94898"
+        },
+        {
             "name": "HBO",
             "image": "https://dookeela.live/uploads/1703686191.png",
             "url": "https://dookeela.live/live-tv/hbo",
