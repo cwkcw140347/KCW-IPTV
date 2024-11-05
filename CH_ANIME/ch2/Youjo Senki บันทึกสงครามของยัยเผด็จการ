@@ -1,13 +1,68 @@
 {
     "name":"Youjo Senki บันทึกสงครามของยัยเผด็จการ",
-    "image":"",
+    "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
     "url":"",    
     "stations":
     [
         {
             "name":"SS1 EP1",
-            "image":"",
-            "url":""
+            "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
+            "url":"https://hls.animeindy.com:8443/vid/5yNJqL5P/video.mp4/playlist.m3u8"
+        },
+        {
+            "name":"SS1 EP2",
+            "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
+            "url":"https://hls.animeindy.com:8443/vid/mQ29uTtM/video.mp4/playlist.m3u8"
+        },
+        {
+            "name":"SS1 EP3",
+            "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
+            "url":"https://hls.animeindy.com:8443/vid/q5Gj9WGS/video.mp4/playlist.m3u8"
+        },
+        {
+            "name":"SS1 EP4",
+            "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
+            "url":"https://hls.animeindy.com:8443/vid/UR8px98j/video.mp4/playlist.m3u8"
+        },
+        {
+            "name":"SS1 EP5",
+            "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
+            "url":"https://hls.animeindy.com:8443/vid/jZeNm9Jv/video.mp4/playlist.m3u8"
+        },
+        {
+            "name":"SS1 EP6",
+            "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
+            "url":"https://hls.animeindy.com:8443/vid/B1Saimy1/video.mp4/playlist.m3u8"
+        },
+        {
+            "name":"SS1 EP7",
+            "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
+            "url":"https://hls.animeindy.com:8443/vid/LVjZMS1U/video.mp4/playlist.m3u8"
+        },
+        {
+            "name":"SS1 EP8",
+            "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
+            "url":"https://hls.animeindy.com:8443/vid/xbJ1Et4p/video.mp4/playlist.m3u8"
+        },
+        {
+            "name":"SS1 EP9",
+            "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
+            "url":"https://hls.animeindy.com:8443/vid/byJHzahf/video.mp4/playlist.m3u8"
+        },
+        {
+            "name":"SS1 EP10",
+            "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
+            "url":"https://hls.animeindy.com:8443/vid/m8FYjWpW/video.mp4/playlist.m3u8"
+        },
+        {
+            "name":"SS1 EP11",
+            "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
+            "url":"https://hls.animeindy.com:8443/vid/QSN6RyQO/video.mp4/playlist.m3u8"
+        },
+        {
+            "name":"SS1 EP12",
+            "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
+            "url":"https://hls.animeindy.com:8443/vid/9Fbh5Hi3/video.mp4/playlist.m3u8"
         }
     ]
 }
