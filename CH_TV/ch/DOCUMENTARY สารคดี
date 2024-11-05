@@ -12,13 +12,6 @@
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
         },
         {
-            "name": "True Explore Wild",
-            "image": "https://dookeela.live/uploads/1724166218.png",
-            "url": "https://dookeela.live/live-tv/trueexplorewild",
-            "referer": "https://dookeela.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-        },
-        {
             "name": "Animal Planet",
             "image": "https://dookeela.live/uploads/1706112700.png",
             "url": "https://dookeela.live/live-tv/animal-planet",
@@ -99,6 +92,13 @@
             "name": "True Explore Life",
             "image": "https://dookeela.live/uploads/1724166670.png",
             "url": "https://dookeela.live/live-tv/trueexplorelife",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "True Explore Wild",
+            "image": "https://dookeela.live/uploads/1724166218.png",
+            "url": "https://dookeela.live/live-tv/trueexplorewild",
             "referer": "https://dookeela.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
         },
