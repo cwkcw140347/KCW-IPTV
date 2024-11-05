@@ -19,6 +19,11 @@
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
         },
         {
+            "name":"Boom Anime",
+            "image":"https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png",
+            "url":"https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8"
+        },
+        {
             "name": "True Spark Play",
             "image": "https://dookeela.live/uploads/1720723541.png",
             "url": "https://dookeela.live/live-tv/truesparkplay",
@@ -103,6 +108,11 @@
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
         },
         {
+            "name":"PBS Kids",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1280px-PBS_Kids_logo_%282022%29.svg.png",
+            "url":"https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+        },
+        {
             "name": "cartoonito",
             "image": "https://dookeela.live/uploads/1704039063.png",
             "url": "https://dookeela.live/live-tv/cartoonito",
@@ -115,6 +125,11 @@
             "url": "https://dookeela.live/live-tv/nicktoons",
             "referer": "https://dookeela.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name":"Zoo Moo",
+            "image":"https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png",
+            "url":"https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
         }
     ]
 }
