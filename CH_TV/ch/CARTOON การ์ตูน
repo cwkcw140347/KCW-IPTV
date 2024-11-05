@@ -5,9 +5,16 @@
     "stations":
     [
         {
-            "name": "Cartoon Club HD",
-            "image": "https://dookeela.live/uploads/1705504043.png",
-            "url": "https://dookeela.live/live-tv/cartoonclub",
+            "name": "Animax | Singapore",
+            "image": "https://dookeela.live/uploads/1704038567.png",
+            "url": "https://dookeela.live/live-tv/animax",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "Astro Ceria",
+            "image": "https://dookeela.live/uploads/1721687988.png",
+            "url": "https://dookeela.live/live-tv/astroceria",
             "referer": "https://dookeela.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
         },
@@ -24,9 +31,16 @@
             "url":"https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8"
         },
         {
-            "name": "True Spark Play",
-            "image": "https://dookeela.live/uploads/1720723541.png",
-            "url": "https://dookeela.live/live-tv/truesparkplay",
+            "name": "cartoonito",
+            "image": "https://dookeela.live/uploads/1704039063.png",
+            "url": "https://dookeela.live/live-tv/cartoonito",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
+            "name": "Cartoon Club HD",
+            "image": "https://dookeela.live/uploads/1705504043.png",
+            "url": "https://dookeela.live/live-tv/cartoonclub",
             "referer": "https://dookeela.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
         },
@@ -34,20 +48,6 @@
             "name": "Cartoon Network",
             "image": "https://dookeela.live/uploads/1708344243.png",
             "url": "https://dookeela.live/live-tv/cartoon-network",
-            "referer": "https://dookeela.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-        },
-        {
-            "name": "Animax | Singapore",
-            "image": "https://dookeela.live/uploads/1704038567.png",
-            "url": "https://dookeela.live/live-tv/animax",
-            "referer": "https://dookeela.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-        },
-        {
-            "name": "Astro Ceria",
-            "image": "https://dookeela.live/uploads/1721687988.png",
-            "url": "https://dookeela.live/live-tv/astroceria",
             "referer": "https://dookeela.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
         },
@@ -108,21 +108,21 @@
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
         },
         {
+            "name": "nicktoons | Germany",
+            "image": "https://dookeela.live/uploads/1713282303.png",
+            "url": "https://dookeela.live/live-tv/nicktoons",
+            "referer": "https://dookeela.live/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+        },
+        {
             "name":"PBS Kids",
             "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1280px-PBS_Kids_logo_%282022%29.svg.png",
             "url":"https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
         },
         {
-            "name": "cartoonito",
-            "image": "https://dookeela.live/uploads/1704039063.png",
-            "url": "https://dookeela.live/live-tv/cartoonito",
-            "referer": "https://dookeela.live/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-        },
-        {
-            "name": "nicktoons | Germany",
-            "image": "https://dookeela.live/uploads/1713282303.png",
-            "url": "https://dookeela.live/live-tv/nicktoons",
+            "name": "True Spark Play",
+            "image": "https://dookeela.live/uploads/1720723541.png",
+            "url": "https://dookeela.live/live-tv/truesparkplay",
             "referer": "https://dookeela.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
         },
