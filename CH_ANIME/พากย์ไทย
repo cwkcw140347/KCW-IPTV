@@ -5,11 +5,15 @@
     "groups":
     [
         {   
-            "name":"Overlord โอเวอร์ ลอร์ด จอมมารพิชิตโลก พากย์ไทย",
+            "name":"Overlord โอเวอร์ ลอร์ด จอมมารพิชิตโลก",
             "image":"https://i.pinimg.com/originals/41/78/ae/4178ae20701e283aa61d2744c9f89fef.gif",
             "url": "https://drive.google.com/uc?id=1vjuHYEyr0d5wVX3H86DNuPL1n2VLLvFM"
-        }
-        ,
+        },
+        {   
+            "name":"Pokemon โปเกม่อน",
+            "image":"https://i.pinimg.com/originals/cb/47/3e/cb473e54e2bc4c8e113f1d37ac60259c.gif",
+            "url": "https://drive.google.com/uc?id=1742Ds8tIN5dFIV4vEN-MPUNghhFZFVPf"
+        },
         {
             "name":"Youjo Senki บันทึกสงครามของยัยเผด็จการ",
             "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
