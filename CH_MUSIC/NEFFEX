@@ -1,0 +1,14 @@
+{
+    "name":"NEFFEX",
+    "image":"https://yt3.ggpht.com/VY8byr8HMzvi8UOAXIp1II02zkM16tC_zKfQRZd1efONGTFPOd7SC6ngbC9HmoEXxldOwq8ItWM=s48-c-k-c0x00ffffff-no-rj",
+    "url":"",
+    "stations":
+    [
+        {
+            "name":"Baller",
+            "image":"",
+            "url":"https://youtu.be/42JyRjrLzjY",
+            "playInNatPlayer":"true"
+        }
+    ]
+}
