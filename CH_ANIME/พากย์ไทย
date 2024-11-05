@@ -4,6 +4,12 @@
     "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_ANIME/%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2",
     "groups":
     [
+        {   
+            "name":"Overlord โอเวอร์ ลอร์ด จอมมารพิชิตโลก พากย์ไทย",
+            "image":"https://i.pinimg.com/originals/41/78/ae/4178ae20701e283aa61d2744c9f89fef.gif",
+            "url": "https://drive.google.com/uc?id=1vjuHYEyr0d5wVX3H86DNuPL1n2VLLvFM"
+        }
+        ,
         {
             "name":"Youjo Senki บันทึกสงครามของยัยเผด็จการ",
             "image":"https://static.anislime.com/pexels/image/FFk4K.webp",
