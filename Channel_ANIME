@@ -1,0 +1,19 @@
+{
+    "name":"ANIME",
+    "author":"Category",
+    "image":"https://i.postimg.cc/W3yLnxdb/movie.png",
+    "url":"",
+    "groups":
+    [
+        {
+            "name":"ซับไทย",
+            "image":"",
+            "url":""
+        },
+        {
+            "name":"พากย์ไทย",
+            "image":"",
+            "url":""
+        }
+    ]
+}
