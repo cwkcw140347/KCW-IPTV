@@ -131,19 +131,19 @@
         {
             "name":"True 4 U",
             "image":"https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png",
-            "url":"https://edge6a.v2h-cdn.com/true4u/true4u.stream/chunklist.m3u8",
+            "url":"https://www.inwiptv.com/player_demo.php?channel=27156",
             "playInNatPlayer":"true"
         },
         {
             "name":"GMM25",
             "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0019.png",
-            "url":"https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/chunklist.m3u8",
+            "url":"https://www.inwiptv.com/player_demo.php?channel=27153",
             "playInNatPlayer":"true"
         },
         {
             "name":"CH8",
             "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0006.png",
-            "url":"https://edge6a.v2h-cdn.com/ch8/ch8.stream/chunklist.m3u8",
+            "url":"https://www.inwiptv.com/player_demo.php?channel=27147",
             "playInNatPlayer":"true"
         },
         {
@@ -168,7 +168,7 @@
         {
             "name":"ONE 31",
             "image":"https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0012.png",
-            "url":"https://bcovlive-a.akamaihd.net/0cd6bc78d30140749a0aad1523804f57/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8",
+            "url":"https://www.inwiptv.com/player_demo.php?channel=27140",
             "playInNatPlayer":"true"
         },
         {
