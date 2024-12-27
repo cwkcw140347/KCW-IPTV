@@ -13,6 +13,11 @@
             "name":"SS1 EP2",
             "image":"@image",
             "url":"https://main.24playerhd.com/m3u8/934ea48dcef6a7fdb47b7a79/934ea48dcef6a7fdb47b7a79438.m3u8"
+        },
+        {
+            "name":"SS1 EP3",
+            "image":"@image",
+            "url":""
         }
     ]
 }
