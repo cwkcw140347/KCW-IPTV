@@ -1,23 +1,23 @@
-{
-    "name":"Lighter & Princess ไฟแช็กกับชุดเจ้าหญิง",
-    "image":"https://www.123-hd.com/wp-content/uploads/2022/11/Lighter-Princess-300x450.png",
-    "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_SERIES/ch2/Lighter%20%26%20Princess",    
-    "stations":
-    [
+const data = {
+    "name": "Lighter & Princess ไฟแช็กกับชุดเจ้าหญิง",
+    "sharedImage": "https://www.123-hd.com/wp-content/uploads/2022/11/Lighter-Princess-300x450.png",
+    "url": "",
+    "stations": [
         {
-            "name":"SS1 EP1",
-            "image":"@image",
-            "url":"https://main.24playerhd.com/m3u8/f67decda6b10f356b1ce1595/f67decda6b10f356b1ce1595438.m3u8"
+            "name": "SS1 EP1",
+            "image": "",
+            "url": "https://main.24playerhd.com/m3u8/f67decda6b10f356b1ce1595/f67decda6b10f356b1ce1595438.m3u8"
         },
         {
-            "name":"SS1 EP2",
-            "image":"@image",
-            "url":"https://main.24playerhd.com/m3u8/934ea48dcef6a7fdb47b7a79/934ea48dcef6a7fdb47b7a79438.m3u8"
-        },
-        {
-            "name":"SS1 EP3",
-            "image":"@image",
-            "url":""
+            "name": "SS1 EP2",
+            "image": "",
+            "url": "https://main.24playerhd.com/m3u8/934ea48dcef6a7fdb47b7a79/934ea48dcef6a7fdb47b7a79438.m3u8"
         }
     ]
-}
+};
+
+// การแสดงผล
+data.stations.forEach(station => {
+    const image = station.image || data.sharedImage; // ใช้ sharedImage หาก image ว่าง
+    console.log(`Station: ${station.name}, Image: ${image}, URL: ${station.url}`);
+});
