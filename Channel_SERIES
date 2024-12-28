@@ -7,12 +7,12 @@
     [
         {
             "name":"ซับไทย",
-            "image":"https://i.postimg.cc/Kv9nrrtN/THAIsub.png",
+            "image":"https://i.postimg.cc/Kv9nrrtN/THAIsub.jpg",
             "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_SERIES/%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2"
         },
         {
             "name":"พากย์ไทย",
-            "image":"https://i.postimg.cc/rsZLgPVc/THAIdub.png",
+            "image":"https://i.postimg.cc/rsZLgPVc/THAIdub.jpg",
             "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_SERIES/%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2"
         }
     ]
