@@ -1,0 +1,18 @@
+{
+    "name":"Crank",
+    "image":"https://laz-img-sg.alicdn.com/p/88e8a00260107e23697fe1aa59c80946.jpg",
+    "url":"",
+    "stations":
+    [
+        {
+            "name":"Crank คนโคม่า วิ่ง คลั่ง ฆ่า",
+            "image":"https://www.123-hd.com/wp-content/uploads/2022/05/Crank-2006-%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%84%E0%B8%A1%E0%B9%88%E0%B8%B2-%E0%B8%A7%E0%B8%B4%E0%B9%88%E0%B8%87-%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B8%86%E0%B9%88%E0%B8%B2-300x450.png",
+            "url":"https://hot.24playerhd.com/ioshls/6006506fe4515632e174b6f8bc024569/6006506fe4515632e174b6f8bc024569.m3u8"
+        },
+        {
+            "name":"Crank High Voltage แครงก์ คนคลั่งไฟแรงสูง",
+            "image":"https://www.123-hd.com/wp-content/uploads/2022/05/Crank-High-Voltage-2009-%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B9%8C-%E0%B8%84%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%B9%E0%B8%87-300x450.png",
+            "url":"https://hot.24playerhd.com/ioshls/353f1f754c79ff617bce633fd0975479/353f1f754c79ff617bce633fd0975479.m3u8"
+        },
+    ]
+}
