@@ -75,6 +75,11 @@
             "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_MOVIE/ch2/The%20Sorcerer%E2%80%99s%20Apprentice%20%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%94%E0%B8%96%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%82%E0%B8%A5%E0%B8%81"
         },
         {
+            "name":"The Voices แผนจี๊ดๆ คิดได้ไง",
+            "image":"https://www.moviehdfree.net/wp-content/uploads/2024/11/The-Voices-2014.webp",
+            "url":""
+        },
+        {
             "name":"The Wild Robot หุ่นยนต์ผจญภัยในป่ากว้าง",
             "image":"https://www.moviehdfree.net/wp-content/uploads/2024/06/The-Wild-Robot-2024-e1718187085995.webp?x51829",
             "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_MOVIE/ch2/The%20Wild%20Robot%20%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%9C%E0%B8%88%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%87"
@@ -84,6 +89,7 @@
             "image":"https://www.2u-hd.com/wp-content/uploads/2021/12/Timeline.jpg",
             "url":"https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/CH_MOVIE/ch2/TIMELINE%20%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%20%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2"
         }
+        
         
     ]
 }
