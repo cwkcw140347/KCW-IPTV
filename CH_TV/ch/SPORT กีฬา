@@ -5,9 +5,24 @@
     "stations":
     [
         {
+            "name": "01",
+            "image": "",
+            "url": "",
+        },
+        {
+            "name": "02",
+            "image": "",
+            "url": "",
+        },
+        {
+            "name": "03",
+            "image": "",
+            "url": "",
+        },
+        {
             "name": "3BB Sports 1",
             "image": "https://dookeela.live/uploads/1720429672.png",
-            "url": "https://t1q7k5u34knhs.sano-rikyu.com/smh6skGd7pqPoZF3HTHPk9PRhGIxltdA/siam-2/chunks.m3u8?nimblesessionid=208720102&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDI1IDE6Mjc6MDYgUE0maGFzaF92YWx1ZT0yaTgxMnB5eEd0Sm9CTEdHYkRvMzZnPT0mdmFsaWRtaW51dGVzPTYw",
+            "url": "",
             "referer": "https://dookeela.live/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
         },
