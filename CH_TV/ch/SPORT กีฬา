@@ -5,10 +5,6 @@
     "stations":
     [
         {
-            "name":"TEST",
-            "url":"https://sd3459dcvsd3423zx.globallivestreaming.xyz/ballmun/sd1/chunks.m3u8?nimblesessionid=1174942&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDI1IDI6Mjg6MTIgUE0maGFzaF92YWx1ZT1YaDJCL1JheXh5T2NTVC9ESDFzMW1nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTc1NjU2NDA5Mjk3MiZzdHJtX2xlbj0w"
-        },
-        {
             "name": "3BB Sports 1",
             "image": "https://dookeela.live/uploads/1720429672.png",
             "url": "https://sd3459dcvsd3423zx.globallivestreaming.xyz/ballmun/sd1/chunks.m3u8?nimblesessionid=1174942&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDI1IDI6Mjg6MTIgUE0maGFzaF92YWx1ZT1YaDJCL1JheXh5T2NTVC9ESDFzMW1nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTc1NjU2NDA5Mjk3MiZzdHJtX2xlbj0w",
