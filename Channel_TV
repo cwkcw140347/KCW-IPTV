@@ -34,6 +34,12 @@
     "stations":
     [
         {
+            "name":"K lol",
+            "image":"https://live7.1314s.com/auth/nw_DesfY_QEU4tsPQoJ2m5EaURe4v40otcyLcjaG7bUj3BCFJX2BgGQJbv-1zzsz6E9Bf7XSxtieVgoeBFeKDOWrWyf_PHASoFjsGZo97NuZ5PKKZPbeEAGryADFTzBZyW1LWt2YGYHkfc1x-s4Bnijrcn5g0E35pw0lRW8c4yobvdN-UmVvAEyXKVkbDA3ciMZhlw_nvX2mZ23ml5pnDkPHXYIrgHurB_j9uYhRKERqokAP1ALD5vMW34qjc7vKwcWIh00XpGDIcDyL4FonSns8nz_64omkjW0EzarkDmbeWhiqQ6qWiSQY-EnT5Lm02mggK47JTU6vlBNuchr1TU6wKA8ctjecnid7VoFJticjwcCbYxbUGwP6AYZIXhpUcR-oV2eOJre4gTjPvMPlbQw1mD_gpPvQpNSwdXccYw4N_o5DSysvyJEvMLmRxfJF6_f63vfh9BGrCx-9M0eFTcnBYyJ5ssDUYyAQfkDRkgN6c42r6TqUIvF5TOcB9WDY2LfdT8blVHJNbzqrAljXx-3ZjjMrmFt3Tz0VGJ3wHPjeytiHwKxdcoZyM_6jXMaeW_ECSEi0FyCgyF-btx-vrgwx94tlfRgABdnBgR6Uy9c",
+            "url":"",
+            "playInNatPlayer":"true"
+        },
+        {
             "name":"NBT2",
             "image":"https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nbt.webp",
             "url":"https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8",
