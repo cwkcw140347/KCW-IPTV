@@ -46,6 +46,12 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx3f0x185wYib2KbuFpJkBT85hfN2zV0MK1Q&s",
             "url": "x-3/chunks.m3u8?nimblesessionid=416679&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNiAxOjUwOjAwIFBNJmhhc2hfdmFsdWU9M1hMNWJIUkRON0k2NElyUi9DdE5JQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MQ==",
             "import": "false"
+        },
+        {
+            "name": "YouTube",
+            "image": "https://www.youtube.com/s/desktop/dc0b62b0/img/favicon.ico",
+            "url": "https://raw.githubusercontent.com/cwkcw140347/KCW-IPTV/refs/heads/main/YT",
+            "import": "false"
         }
     ]
 }
